@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+
+
+![image]([/.attachments/image-0ba0b80e-1f85-4b92-86aa-efb0688ec65a.png](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))
 
 <!--
 **PedroRepos/PedroRepos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
