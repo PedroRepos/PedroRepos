@@ -1,6 +1,8 @@
-## OLÁ! SEJA BEM VINDO!
+## SEJA BEM VINDO! / WELCOME!
 
-#### TECNOLOGIAS
+### [EN] Hello, my name is Pedro, I'm 21 years old and I'm a Back-End software developer. My programs and studies are geared towards .NET with a focus on ASP.Net / MVC. Feel free on my profile. Just below, the technologies in which I work and my contact.
+
+### [PT] Olá, meu nome é Pedro tenho 21 anos e sou desenvolvedor de software Back-End. Meus programas e estudos são voltados para o .NET com foco em ASP.Net / MVC. Sinta-se  a vontade em meu perfil. Logo a baixo, as tecnologias em que trabalho e meu contato.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
