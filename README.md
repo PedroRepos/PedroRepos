@@ -9,6 +9,8 @@
   <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://swimburger.net/media/ppnn3pcl/azure.png">
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="![image](https://github.com/PedroRepos/PedroRepos/assets/120064429/bab8f273-6d83-427d-9dce-8aea46be4672)
+">
 </div>
   
 
