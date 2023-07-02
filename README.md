@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <IMG  src="https://swimburger.net/media/ppnn3pcl/azure.png"  alt="Azure has a new logo, but where do you download it? Here!"/>
+ <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://swimburger.net/media/ppnn3pcl/azure.png">
 </div>
   
 
